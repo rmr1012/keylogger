@@ -1,5 +1,7 @@
 # Mac OS X Keylogger
 
+# This fork aims to wrap the C source in a easy to use python libary 
+
 This repository holds the code for a simple and easy to use keylogger for Mac OS X. It is not meant to be malicious, and is written as a proof of concept. There is not a lot of information on keyloggers or implementing them on Mac OS X, and most of the ones I've seen do not work as indicated. This project aims to be a simple implementation on how it can be accomplished on OS X.
 
 > Note: This keylogger is currently unable to capture secure input such as passwords. See issue #3 for more information.
